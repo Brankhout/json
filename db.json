@@ -1,16 +1,16 @@
 {
-name: 'Opdracht 1',
-introText: 'Vragen over ons koningshuis',
-questions: [
-{
-questionId: 1,
-question: 'Wat is de politieke vorm van Nederland',
-questionType: 'multiple_choice',
-answers: [
-{
-answer: 'Parlementaire democratie met constitutionele monarchie',
-answerId: 102,
-isCorrect: true
+  name: 'Opdracht 1',
+  introText: 'Vragen over ons koningshuis',
+  questions: [
+  {
+    questionId: 1,
+      question: 'Wat is de politieke vorm van Nederland',
+      questionType: 'multiple_choice',
+      answers: [
+        {
+          answer: 'Parlementaire democratie met constitutionele monarchie',
+          answerId: 102,
+          isCorrect: true
 },
 {
 answer: 'Monarchie',
