@@ -28,7 +28,7 @@
 {
 "questionId": 2,
 "question": "Wat kan jij vertellen over ons koningshuis?",
-"questionType": 'open_question',
+"questionType": "open_question",
 "userAnswer": null
 },
 {
