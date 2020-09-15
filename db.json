@@ -23,19 +23,19 @@
 "isCorrect": false
 }
 ],
-"userAnswer": null // dit veld is waar je het gegeven antwoord in zet.
+"userAnswer": null
 },
 {
 "questionId": 2,
 "question": "Wat kan jij vertellen over ons koningshuis?",
 "questionType": 'open_question',
-"userAnswer": null // dit is waar je het gegeven antwoord in zet.
+"userAnswer": null
 },
 {
 "questionId": 3,
 "question": "Hoe nuttig vind jij de aanwezigheid van onze monarchie?",
 "questionType": "open_question",
-"userAnswer": null // dit is waar je het gegeven antwoord in zet.
+"userAnswer": null
 },
 {
 "questionId": 4,
@@ -58,13 +58,13 @@
 "isCorrect": false
 }
 ],
-"userAnswer": null // dit veld is waar je het gegeven antwoord in zet.
+"userAnswer": null
 },
 {
 "questionId": 5,
 "question": "Wat zou jij veranderen als je Nederland zou besturen voor een dag?",
 "questionType": "open_question",
-"userAnswer": null // dit is waar je het gegeven antwoord in zet.
+"userAnswer": null
 }
 ]
 }
