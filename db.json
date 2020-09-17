@@ -1,4 +1,5 @@
-{[
-    "name": "Opdracht 1",
-    "introText": "Vragen over ons koningshuis",
-]}
+[
+    {"name": "Opdracht 1",}
+    {"introText": "Vragen over ons koningshuis",}
+
+];
